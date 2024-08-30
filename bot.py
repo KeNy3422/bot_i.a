@@ -11,6 +11,7 @@ class SimpleChatbot:
             'como você está?': ['Estou bem, obrigado!', 'Tudo certo, e você?'],
             'qual é o seu nome?': ['Eu sou um chatbot sem nome.', 'Você pode me chamar de Chatbot.'],
             'tchau': ['Tchau!', 'Até logo!', 'Adeus!'],
+            'qual o maior time do brasil?' : ['São Paulo Futebol Clube é o maior clube do brasil'g]
             'passa a resposta da lição': ['qual é a lição?'],
             'lição de ia': ['qual semana e aula?'],
             's15- aula- 3': ['a resposta é criar perguntas para o chat bot interagir com você']
